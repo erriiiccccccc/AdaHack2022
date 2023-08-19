@@ -1,8 +1,6 @@
-<h1 align="center">✨ Rubik's Cube Painting Challenge - Ada Hack 2022 ✨</h1>
+<h1 align="left">✨ Rubik's Cube Painting Challenge - Ada Hack 2022 ✨</h1>
 
-<p align="center">
-   ![Rubix cube](https://github.com/erriiiccccccc/AdaHack2022/assets/90021527/78db74ea-4597-4ba7-9704-e8f8ad0d34c1)
-</p>
+![Rubix cube](https://github.com/erriiiccccccc/AdaHack2022/assets/90021527/78db74ea-4597-4ba7-9704-e8f8ad0d34c1)
 
 ## Table of Contents
 1. Task 1
